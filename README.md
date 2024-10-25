@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **MERN stack**
 
-- 💬 Ask me about **PHP , JAVA**
+- 💬 Ask me about **PHP,JAVA**
 
 - 📫 How to reach me **alizaiterr777@gmail.com**
 
