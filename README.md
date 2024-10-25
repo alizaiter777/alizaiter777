@@ -1,4 +1,4 @@
-![MasterHead](https://whiteduck.de/wp-content/uploads/WD-Developer-Productivity-Website-1170x680px.gif)
+
 <h1 align="center">Hi 👋</h1>
 <h3 align="center">Driven programmer with a passion for learning, problem-solving, and building innovative tech solutions.</h3>
 <img align="right" alt="Coding" width="400" src="https://media.licdn.com/dms/image/C4E12AQFS2orslcG6VA/article-cover_image-shrink_600_2000/0/1601654296846?e=2147483647&v=beta&t=itdCVYrtXaVuTDFY2naHqZsnvivxfuWmg7loyouZjDM">
