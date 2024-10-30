@@ -1,6 +1,6 @@
 
 <h1 align="center"> DevDynamo</h1>
-<h3 align="center">Driven programmer with a passion for learning, problem-solving, and building innovative tech solutions.</h3>
+<h3 align="center">Driven developer with a passion for learning, problem-solving, and building innovative tech solutions.</h3>
 <img align="right" alt="Coding" width="400" src="https://media.licdn.com/dms/image/C4E12AQFS2orslcG6VA/article-cover_image-shrink_600_2000/0/1601654296846?e=2147483647&v=beta&t=itdCVYrtXaVuTDFY2naHqZsnvivxfuWmg7loyouZjDM">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alizaiter777&label=Profile%20views&color=0e75b6&style=flat" alt="alizaiter777" /> </p>
 
